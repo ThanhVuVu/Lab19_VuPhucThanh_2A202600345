@@ -1,0 +1,10 @@
+langchain
+langchain-nvidia-ai-endpoints
+pandas
+pydantic
+python-dotenv
+neo4j
+faiss-cpu
+langchain-community
+langchain-huggingface
+sentence-transformers

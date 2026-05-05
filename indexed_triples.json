@@ -1,0 +1,202 @@
+[
+    {
+        "subject": "Apple Inc.",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$2.866 T"
+    },
+    {
+        "subject": "Apple Inc.",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "Apple Inc.",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Apple Inc.",
+        "relationship": "thuộc ngành",
+        "object": "Consumer Electronics"
+    },
+    {
+        "subject": "Microsoft Corporation",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$2.755 T"
+    },
+    {
+        "subject": "Microsoft Corporation",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "Microsoft Corporation",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Microsoft Corporation",
+        "relationship": "thuộc ngành",
+        "object": "Software—Infrastructure"
+    },
+    {
+        "subject": "Nvidia Corporation",
+        "relationship": "vốn hóa thị trường",
+        "object": "$1.186 T"
+    },
+    {
+        "subject": "Nvidia Corporation",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "Nvidia Corporation",
+        "relationship": "lĩnh vực hoạt động",
+        "object": "Technology"
+    },
+    {
+        "subject": "Nvidia Corporation",
+        "relationship": "ngành hoạt động",
+        "object": "Semiconductors"
+    },
+    {
+        "subject": "Broadcom Inc.",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$495.95 B"
+    },
+    {
+        "subject": "Broadcom Inc.",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "Broadcom Inc.",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Broadcom Inc.",
+        "relationship": "thuộc ngành",
+        "object": "Semiconductors"
+    },
+    {
+        "subject": "Taiwan Semiconductor Manufacturing Company Limited",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$487.64 B"
+    },
+    {
+        "subject": "Taiwan Semiconductor Manufacturing Company Limited",
+        "relationship": "đặt tại",
+        "object": "Taiwan"
+    },
+    {
+        "subject": "Taiwan Semiconductor Manufacturing Company Limited",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Taiwan Semiconductor Manufacturing Company Limited",
+        "relationship": "thuộc ngành",
+        "object": "Semiconductors"
+    },
+    {
+        "subject": "Samsung Electronics Co., Ltd.",
+        "relationship": "vốn hóa thị trường",
+        "object": "$392.38 B"
+    },
+    {
+        "subject": "Samsung Electronics Co., Ltd.",
+        "relationship": "đặt tại",
+        "object": "South Korea"
+    },
+    {
+        "subject": "Samsung Electronics Co., Ltd.",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Samsung Electronics Co., Ltd.",
+        "relationship": "ngành",
+        "object": "Consumer Electronics"
+    },
+    {
+        "subject": "ASML Holding N.V.",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$297.10 B"
+    },
+    {
+        "subject": "ASML Holding N.V.",
+        "relationship": "đặt tại",
+        "object": "Netherlands"
+    },
+    {
+        "subject": "ASML Holding N.V.",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "ASML Holding N.V.",
+        "relationship": "thuộc ngành",
+        "object": "Semiconductor Equipment & Materials"
+    },
+    {
+        "subject": "Oracle Corporation",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$282.01 B"
+    },
+    {
+        "subject": "Oracle Corporation",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "Oracle Corporation",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Oracle Corporation",
+        "relationship": "thuộc ngành",
+        "object": "Software—Infrastructure"
+    },
+    {
+        "subject": "Adobe Inc.",
+        "relationship": "có vốn hóa thị trường",
+        "object": "$260.23 B"
+    },
+    {
+        "subject": "Adobe Inc.",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "Adobe Inc.",
+        "relationship": "hoạt động trong lĩnh vực",
+        "object": "Technology"
+    },
+    {
+        "subject": "Adobe Inc.",
+        "relationship": "thuộc ngành",
+        "object": "Software—Infrastructure"
+    },
+    {
+        "subject": "salesforce.com, inc.",
+        "relationship": "vốn hóa thị trường",
+        "object": "$243.78 B"
+    },
+    {
+        "subject": "salesforce.com, inc.",
+        "relationship": "đặt tại",
+        "object": "United States"
+    },
+    {
+        "subject": "salesforce.com, inc.",
+        "relationship": "lĩnh vực hoạt động",
+        "object": "Technology"
+    },
+    {
+        "subject": "salesforce.com, inc.",
+        "relationship": "ngành hoạt động",
+        "object": "Software—Application"
+    }
+]
